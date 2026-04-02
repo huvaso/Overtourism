@@ -40,7 +40,9 @@ The proposed framework is based on the following key steps:
 5. **Attractiveness Modeling**  
    A **Huff-based probabilistic model** is used to evaluate dynamic attractiveness of locations.
 
-## 📄 Citation
+**Note:** The full paper is available at https://link.springer.com/chapter/10.1007/978-3-032-05727-3_28
+
+## Citation
 
 If you use this code or find it helpful in your research, please cite:
 
