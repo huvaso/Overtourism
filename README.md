@@ -8,7 +8,6 @@
 **Institution:** De Vinci Higher Education, De Vinci Research Center, Paris, France 
 <br />
 
-
 **Note:** use Python 3.9.*
 
 ## Description
@@ -16,8 +15,6 @@
 Overtourism presents complex and often hidden challenges for urban environments, impacting residents, infrastructure, and visitor satisfaction. This repository contains the code and resources associated with our research on detecting **latent overtourism**—the early, subtle warning signs of excessive tourism before visible disruptions occur.
 
 Our approach introduces a **data-driven methodology** combining graph modeling and pattern mining techniques to uncover hidden tourist movement dynamics.
-
----
 
 ## Methodology
 
