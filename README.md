@@ -2,7 +2,7 @@
 
 ## Created by
 **Author:** Hugo Alatrista-Salas <br />
-**Co-authors** - Gaël Chareyron, Sonia Djebali, Imen Ouled-Dlala and Nicolas Travers  <br />
+**Co-authors:** Gaël Chareyron, Sonia Djebali, Imen Ouled-Dlala and Nicolas Travers  <br />
 **Maintainer:** Hugo Alatrista-Salas <br />
 **Contact Details:** hugo.alatrista_salas@devinci.fr <br />
 **Institution:** De Vinci Higher Education, De Vinci Research Center, Paris, France 
