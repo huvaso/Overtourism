@@ -1,13 +1,21 @@
 # From Flows to Graphs: Data-Driven Insights on Latent Overtourism with Frequent Pattern Mining
 
-## 📌 Overview
+## Created by
+**Author:** Hugo Alatrista-Salas <br />
+**Co-authors** - Gaël Chareyron, Sonia Djebali, Imen Ouled-Dlala and Nicolas Travers  <br />
+**Maintainer:** Hugo Alatrista-Salas <br />
+**Contact Details:** hugo.alatrista_salas@devinci.fr <br />
+**Institution:** De Vinci Higher Education, De Vinci Research Center, Paris, France 
+<br />
+
+## Overview
 Overtourism presents complex and often hidden challenges for urban environments, impacting residents, infrastructure, and visitor satisfaction. This repository contains the code and resources associated with our research on detecting **latent overtourism**—the early, subtle warning signs of excessive tourism before visible disruptions occur.
 
 Our approach introduces a **data-driven methodology** combining graph modeling and pattern mining techniques to uncover hidden tourist movement dynamics.
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 The proposed framework is based on the following key steps:
 
@@ -27,30 +35,6 @@ The proposed framework is based on the following key steps:
 
 5. **Attractiveness Modeling**  
    A **Huff-based probabilistic model** is used to evaluate dynamic attractiveness of locations.
-
----
-
-## 🌍 Use Case
-
-The methodology has been applied to **three cities of varying sizes**, revealing:
-- Consistent tourist flow patterns  
-- Areas under increasing pressure  
-- Early indicators of overtourism  
-
----
-
-## 👥 Authors
-
-- Hugo Alatrista-Salas  
-- Gaël Chareyron  
-- Sonia Djebali  
-- Imen Ouled-Dlala  
-- Nicolas Travers  
-
-**Institution:**  
-De Vinci Higher Education, De Vinci Research Center, Paris, France  
-
----
 
 ## 📄 Citation
 
