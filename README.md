@@ -1,4 +1,4 @@
-# From Flows to Graphs: Data-Driven Insights on Latent Overtourism with Frequent Pattern Mining
+# 🗺️ From Flows to Graphs: Data-Driven Insights on Latent Overtourism with Frequent Pattern Mining
 
 ## Created by
 **Author:** Hugo Alatrista-Salas <br />
