@@ -1,6 +1,6 @@
 # 🗺️ From Flows to Graphs: Data-Driven Insights on Latent Overtourism with Frequent Pattern Mining
 
-## Created by
+## About
 **Author:** Hugo Alatrista-Salas <br />
 **Co-authors:** Gaël Chareyron, Sonia Djebali, Imen Ouled-Dlala and Nicolas Travers  <br />
 **Maintainer:** Hugo Alatrista-Salas <br />
